@@ -1,6 +1,6 @@
 # Pulsatile-lipid-vesicles-under-osmotic-stress
 
-This depository contains a matlab code devloped to solve the system of equations presented in:
+This repository contains a matlab code devloped to solve the system of equations presented in:
 
 Chabanon, M., Ho, J.C.S., Liedberg, B., Parikh, A.N., and Rangamani, P. (2017). Pulsatile Lipid Vesicles under Osmotic Stress. Biophysical Journal 112, 1682–1691.
 
